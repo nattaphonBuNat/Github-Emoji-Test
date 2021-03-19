@@ -1,1 +1,1 @@
-print("GitMoji")
+print("GitMoji ...")
